@@ -145,7 +145,9 @@ The complete research paper is included in this repository.
 - M. Akshith Reddy  
 - K. Anuroop Reddy  
 - M. Kishore  
-- M. Sai Venkata Karthik  
+- M. Sai Venkata Karthik
+- P. Sreeja Reddy
+- K. Shruthi
 - R. Srilatha (Assistant Professor)
 
 ---
